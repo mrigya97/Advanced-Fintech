@@ -1,0 +1,154 @@
+#block1 {
+        background-color: aquamarine;
+        padding: 20px;
+        font-family: 'Courier New', Courier, monospace;
+}
+#block2 {
+  background-color: rgb(160, 180, 174);
+  padding: 20px;
+  font-family: sans-serif;
+
+}
+
+#block3 {
+  background-color: rgb(180, 160, 178);
+  padding: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+#block5 {
+  background-color: lawngreen;
+  padding: 20px;
+  font-family: 'fantasy';
+  float: right
+  
+}
+
+#data1 {
+  background-color: red;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#data2 {
+  background-color: purple;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+
+#data3 {
+  background-color: saddlebrown;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#data4 {
+  background-color: olive;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#data5 {
+  background-color:orangered;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#data6 {
+  background-color: fuchsia;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#data7 {
+  background-color:chocolate;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+#livedata {
+  background-color:plum;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#livedata1 {
+  background-color:honeydew;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#Bitcoindata {
+  background-color:lightgreen;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#ETHdata {
+  background-color:coral;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#AVAXdata {
+  background-color:powderblue;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#exchangerate {
+  background-color:aliceblue;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
+
+#minername {
+  background-color:blanchedalmond;
+  padding: 10px;
+  font-family:monospace;
+  font-size: 15px;
+  font-style:initial;
+  
+}
